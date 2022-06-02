@@ -4,8 +4,8 @@
   "name": "Data API Service",
   "signing_alg": "000",
   "skip_consent_for_verifiable_first_party_clients": true,
-  "token_lifetime": 000,
-  "token_lifetime_for_web": 000,
+  "token_lifetime": 11111,
+  "token_lifetime_for_web": 11111,
   "scopes": [
     {
       "value": "admin:woooooo"
