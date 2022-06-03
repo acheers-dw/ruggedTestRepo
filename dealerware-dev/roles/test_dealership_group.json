@@ -1,0 +1,10 @@
+{
+  "name": "test_dealership_group",
+  "description": "Test Dealership Group Data Group",
+  "permissions": [
+    {
+      "permission_name": "read:test_dealership_group-oem-report",
+      "resource_server_identifier": "https://data-dev.dealerware.dev"
+    }
+  ]
+}

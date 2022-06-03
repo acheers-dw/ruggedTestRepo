@@ -1,0 +1,10 @@
+{
+  "name": "test_dealership_group.west",
+  "description": "Test Dealership Group West Data Group",
+  "permissions": [
+    {
+      "permission_name": "read:test_dealership_group-west-report",
+      "resource_server_identifier": "https://data-dev.dealerware.dev"
+    }
+  ]
+}

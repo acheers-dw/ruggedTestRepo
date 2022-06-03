@@ -1,0 +1,10 @@
+{
+  "name": "test_dealership_group.canada",
+  "description": "Test Dealership Group Canada Data Group",
+  "permissions": [
+    {
+      "permission_name": "read:test_dealership_group-canada-report",
+      "resource_server_identifier": "https://data-api.dealerware.io"
+    }
+  ]
+}

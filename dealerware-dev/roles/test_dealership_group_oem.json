@@ -1,0 +1,10 @@
+{
+  "name": "test_dealership_group.admin",
+  "description": "Test Dealership Group OEM Admin Group",
+  "permissions": [
+    {
+      "permission_name": "admin:test_dealership-oem-user",
+      "resource_server_identifier": "https://data-dev.dealerware.dev"
+    }
+  ]
+}
