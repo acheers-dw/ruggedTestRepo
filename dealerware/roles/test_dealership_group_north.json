@@ -1,0 +1,10 @@
+{
+  "name": "test_dealership_group.north",
+  "description": "Test Dealership Group North Data Group",
+  "permissions": [
+    {
+      "permission_name": "read:test_dealership_group-north-report",
+      "resource_server_identifier": "https://data-api.dealerware.io"
+    }
+  ]
+}

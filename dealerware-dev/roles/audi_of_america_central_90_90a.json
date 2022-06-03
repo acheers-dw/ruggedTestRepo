@@ -1,0 +1,10 @@
+{
+  "name": "audi_of_america.central.90.90a",
+  "description": "Audi Of America Central 90 90a Data Group",
+  "permissions": [
+    {
+      "permission_name": "read:audi_of_america-central-90-90a-report",
+      "resource_server_identifier": "https://data-dev.dealerware.dev"
+    }
+  ]
+}
