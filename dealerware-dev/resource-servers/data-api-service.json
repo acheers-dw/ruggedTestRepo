@@ -33,6 +33,30 @@
     },
     {
       "value": "read:audi_of_america-central-90-90a-report"
+    },
+    {
+      "value": "admin:test_dealership-oem-user"
+    },
+    {
+      "value": "read:test_dealership_group-oem-report"
+    },
+    {
+      "value": "read:test_dealership_group-north-report"
+    },
+    {
+      "value": "read:test_dealership_group-south-report"
+    },
+    {
+      "value": "read:test_dealership_group-east-report"
+    },
+    {
+      "value": "read:test_dealership_group-west-report"
+    },
+    {
+      "value": "read:test_dealership_group-canada-report"
+    },
+    {
+      "value": "read:audi_of_america-central-90-90a-report"
     }
   ]
 }
